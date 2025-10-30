@@ -33,8 +33,8 @@ I consider this Portfolio Website **Vol. 1** — it will evolve as my skills and
 ## Interactive Features (JS)
 
 - **Portrait crossfade** (hover/click toggle).
-- **Theme toggle** (light/dark) with ```localStorage``` persistence.
-- **Rotating, full-viewport SVG background** that respects ```prefers-reduced-motion```.
+- **Theme toggle** (light/dark) with `localStorage` persistence.
+- **Rotating, full-viewport SVG background** that respects `prefers-reduced-motion`.
 
 ---
 
@@ -51,8 +51,8 @@ I consider this Portfolio Website **Vol. 1** — it will evolve as my skills and
 
 - Semantic landmarks and descriptive link text.
 - Visible focusable controls (e.g., theme toggle button).
-- **Reduced motion** respected (rotating background pauses for users with ```prefers-reduced-motion: reduce```).
-- SVG icons use ```currentColor``` and are paired with accessible link text.
+- **Reduced motion** respected (rotating background pauses for users with `prefers-reduced-motion: reduce`).
+- SVG icons use `currentColor` and are paired with accessible link text.
 
 ---
 
