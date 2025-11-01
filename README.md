@@ -61,7 +61,7 @@ I consider this Portfolio Website **Vol. 1** — it will evolve as my skills and
 ```
 arek-portfolio-website/
 ├── index.html                  # Home
-├── about.html                  # Aboute
+├── about.html                  # About
 ├── projects.html               # Projects
 ├── contact.html                # Contact
 ├── styles.css                  # Global styles
